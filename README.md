@@ -7,11 +7,11 @@ Welcome to Asha, an innovative AI-powered health assistant designed to revolutio
 - **Natural Conversations**: Engage in human-like dialogues for health advice and emotional support.
 - **Voice-Activated Assistance**: Hands-free interaction through advanced speech recognition.
 - **Lifelike Responses**: Hear Asha's advice with natural-sounding text-to-speech technology.
-- **Email Management**: Stay on top of your health-related correspondence effortlessly.
+- **Email Management**: Effortlessly stay on top of your health-related correspondence.
 - **Smart Scheduling**: Book appointments using simple voice commands.
 - **Seamless Integrations**: Connect with Google Calendar and Gmail for a unified experience.
 - **Eye-Friendly Interface**: Toggle dark mode for comfortable viewing at any time of day.
-- **Conversation Tracking**: Review your chat history for consistent care.
+- **Conversation Tracking**: Please look over your chat history for consistent care.
 - **Device Flexibility**: Access Asha on various devices with our responsive design.
 
 ## 🛠️ Technology Stack
